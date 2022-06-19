@@ -1,0 +1,10 @@
+.card{
+    max-width: 540px;
+    height: 25rem !important;
+    object-fit: cover;
+    overflow: hidden;
+}
+.imgHight {
+    height: 25rem !important;
+    object-fit: cover;
+}
